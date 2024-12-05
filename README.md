@@ -13,4 +13,5 @@ Contents:
 ````
 gen_ai_coding_docs/Claude-Readme v1.md    Initial Claude.ai readme
 gen_ai_coding_docs/Claude-Readme v2.md    Updated Claude.ai readme 2024-12-05
+gen_ai_coding_docs/ChatGPT-Readme v1.md   Initial ChatGPT readme based on Claude v2
 ````
